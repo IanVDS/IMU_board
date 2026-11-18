@@ -1,0 +1,4 @@
+*.kicad_prl
+*.bak
+*.DS_Store
+IMU_board-backups/

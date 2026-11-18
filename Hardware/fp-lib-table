@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Crystals") (type "KiCad") (uri "${PERSONAL_LIB}/Crystals.pretty") (options "") (descr ""))
+	(lib (name "Personal-Connectors") (type "KiCad") (uri "${PERSONAL_LIB}/Personal-Connectors.pretty") (options "") (descr ""))
+)
